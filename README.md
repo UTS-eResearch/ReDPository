@@ -1,2 +1,3 @@
 # ReDPository
-A simple, scalabale and secure file-based repository for research data
+
+A simple, scalable and secure file-based repository for research data
