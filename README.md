@@ -4,15 +4,15 @@ A simple, scalable and secure file-based repository for research data.
 
 <img src="images/nginx_solr.png" width="1024" alt="A cartoon representing an ocfl dataset being indexed in solr and served via nginx to an end user" />
 
-Research datasets are stored in a filesystem, using the [Oxford Common File Layout](https://ocfl.io/), an open standard for building immutable, versioned repositoris.
+Research datasets are stored in a filesystem, using the [Oxford Common File Layout](https://ocfl.io/), an open standard for building immutable, versioned repositories.
 
-The ReDPository platform uses OCFL repositories to store
+The ReDPository platform will use OCFL repositories to store:
 
 * collections of disparate datasets, ie an institutional data publications repository
 * special-purpose repositories for individual research groups or users
 * repositories for storing a single, structured research data collection
 
-Datasets are described with [RO-Crate](https://researchobject.github.io/ro-crate/), an open standard for human- and machine-readable metadata, which can capture files, creators, workflows, provenance, licences for access and other contextual metadata
+Datasets are described with [RO-Crate](https://researchobject.github.io/ro-crate/), an open standard for human- and machine-readable metadata, which can capture files, creators, workflows, provenance, licences for access and other contextual metadata.
 
 Metadata and access conditions are harvested and indexed into Solr, a stable, efficient, open-source search engine.
 
