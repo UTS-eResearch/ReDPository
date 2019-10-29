@@ -40,7 +40,7 @@ ReDBox 2, an open-source research data management and planning tool, can publish
 
 ## Further reading
 
-<img src="images/ro-crate.png" width="256" alt="A cartoon representing a single dataset described by a small sign with metadata" />
+<img src="images/ro-crate.png" width="209" alt="A cartoon representing a single dataset described by a small sign with metadata" />
 
 * [Oxford Common File Layout](https://ocfl.io/)
 * [RO-Crate](https://researchobject.github.io/ro-crate/)
