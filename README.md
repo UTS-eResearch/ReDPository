@@ -45,8 +45,8 @@ ReDBox 2, an open-source research data management and planning tool, can publish
 * [Oxford Common File Layout](https://ocfl.io/)
 * [RO-Crate](https://researchobject.github.io/ro-crate/)
 * [Slides from the UTS presentation at the ARDC Data and Services Summit, Monday October 21st 2019](docs/ARDC_Summit_20191021_UTS.pptx)
-* [Poster from the ARDC Summit](ARDC_Summit_20191021_UTS_poster.pdf)
-* [Lightning Talk: Publishing Versioned Datasets with OCFL and nginx, eResearch 2019](eResearch2019_lighting_ocfl_nginx.pptx)
+* [Poster from the ARDC Summit](docs/ARDC_Summit_20191021_UTS_poster.pdf)
+* [Lightning Talk: Publishing Versioned Datasets with OCFL and nginx, eResearch 2019](docs/eResearch2019_lighting_ocfl_nginx.pptx)
 
 
 ## Acknowledgements
