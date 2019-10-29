@@ -53,4 +53,4 @@ ReDBox 2, an open-source research data management and planning tool, can publish
 
 This research/project is supported by the Australian Research Data Commons (ARDC). The ARDC is enabled by NCRIS.
 
-<img src="images/ARDC_logo.png" width="400" alt="ARDC logo included with HTML" />
+<img src="images/ARDC_logo.png" width="256" alt="ARDC logo included with HTML" />
